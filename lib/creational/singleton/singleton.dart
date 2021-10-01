@@ -19,7 +19,3 @@ class Singleton {
     }
   }
 }
-
-void main() {
-  Singleton.executar();
-}
